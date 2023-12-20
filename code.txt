@@ -1,0 +1,17 @@
+1. Write a Java program to find the common elements between two arrays (string values).
+
+String[] array1 = {"Python", "JAVA", "PHP", "C#", "C++", "SQL"};
+ 
+String[] array2 = {"MySQL", "SQL", "SQLite", "Oracle", "PostgreSQL", "DB2", "JAVA"};
+
+Common element is : [JAVA, SQL]
+
+
+
+2.Write a Java program to remove duplicate elements from an array.
+
+Original Array :                                                                                              
+0       3       -2      4       3       2                                                                     
+Array with unique values :                                                                                    
+0       3       -2      4       2  
+
